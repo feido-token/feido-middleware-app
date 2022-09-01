@@ -1,0 +1,3 @@
+[submodule "external/java-ra-tls-client"]
+	path = external/java-ra-tls-client
+	url = https://github.com/feido-token/sgx-ra-tls-client
