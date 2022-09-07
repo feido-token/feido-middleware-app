@@ -36,3 +36,8 @@ on an Android phone *with NFC support*.
 
 We have successfully tested the prototype using a `Samsung Galaxy S8` with `Android 9 (Pie)`
 installed.
+
+
+## Limitations
+Note that the current version of the FeIDo middleware app is a proof of concept, not a production-ready prototype.
+The current implementation does not perform thorough cleanup and exception handling and might face callstack-related overflows.
