@@ -4,6 +4,9 @@ The middleware acts an intermediate between the eID, Credential Service, and
 browser extension.
 
 ## Build Preparation
+**Note:** Please fetch this repo as a submodule of the umbrella repo: https://github.com/feido-token/feido.
+Otherwise, the symoblic links to the FeIDo protobuf files will not resolve.
+
 1. Initialize the submodule(s):
     ```
     git submodule update --init --recursive
